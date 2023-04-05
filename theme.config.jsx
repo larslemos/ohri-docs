@@ -50,11 +50,11 @@ const themeConfig = {
     </>
   ),
   project: {
-    link: "https://github.com/UCSF-IGHS/ohri-docs"
+    link: "https://github.com/UCSF-IGHS/ohri-docs",
   },
   chat: {
-    link: 'https://openmrs.slack.com/archives/C01PW9FSJBT'
-  }
+    link: "https://openmrs.slack.com/archives/C01PW9FSJBT",
+  },
   footer: {
     text: <span>© {new Date().getFullYear()} UCSF</span>,
   },
